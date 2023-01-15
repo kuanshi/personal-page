@@ -82,11 +82,8 @@ analytics:
 author:
   name             : "Kuanshi Zhong"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor \n
-                      University of Cincinnati"
-  location         : "730 Mantei Center \n
-                      2901 Woodside Drive \n
-                      Cincinnati, OH 45219"
+  bio              : "Assistant Professor"
+  location         : "University of Cincinnati"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QpuIp-kAAAAJ&hl=en&oi=ao"
